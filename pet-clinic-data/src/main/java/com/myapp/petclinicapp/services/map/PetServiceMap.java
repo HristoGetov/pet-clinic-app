@@ -1,4 +1,4 @@
-package com.myapp.petclinicapp.map;
+package com.myapp.petclinicapp.services.map;
 
 import com.myapp.petclinicapp.model.Pet;
 import com.myapp.petclinicapp.services.PetService;
